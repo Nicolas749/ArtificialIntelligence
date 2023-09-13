@@ -1,1 +1,2 @@
-# ArtificialIntelligence
+# Artificial Intelligence
+-Classroom homeworks
